@@ -1,0 +1,17 @@
+tkinter
+platform
+psutil
+screen_brightness_control
+ctypes
+comtypes
+pycaw
+geopy
+timezonefinder
+datetime
+requests
+pytz
+time
+pyautogui
+subprocess
+webbrowser
+tkcalendar
